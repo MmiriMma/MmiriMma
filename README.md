@@ -1,7 +1,7 @@
 - 👋 Hi, I’m chika abii
 - 👀 I’m interested in data analysis, project management
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to working with a team of professionals to learn more
+- 🌱 I’m currently learning sql,excel
+- 💞️ I’m looking to work as a data analysis intern
 - 📫 How to reach me .... chikaabii@yahoo.com
 
 <!---
